@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import logo from './logo.svg';
 import './App.css';
 import { Modal, Button, Table } from "react-bootstrap";
-//import "bootstrap/dist/css/bootstrap.min.css"
+//"bootstrap/dist/css/bootstrap.min.css"
 
 class App extends Component{
 constructor(props) {
